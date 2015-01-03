@@ -17,13 +17,9 @@ body {
   column-width: 600px;
   -webkit-column-width: 600px;
   -moz-column-width: 600px;
-  -o-column-width: 600px;
-  -ms-column-width: 600px;
   column-gap: 40px;
   -webkit-column-gap: 40px;
   -moz-column-gap: 40px;
-  -o-column-gap: 40px;
-  -ms-column-gap: 40px;
 }
 /* Heading */
 h1 {

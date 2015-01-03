@@ -62,7 +62,7 @@ end
 
 画像は「//image」ブロックを使います。
 
-//image[imgsample][画像サンプル]{
+//image[imgsample][画像サンプル][scale=0.2]{
 //}
 
 

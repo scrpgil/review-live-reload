@@ -3,6 +3,7 @@
 # 「review-epubmaker yamlファイル」を実行すると、<bookname>.epubファイルが
 # 生成されます。
 # このファイルはUTF-8エンコーディングで記述してください。
+review_version: 3.0
 
 # ブック名(ファイル名になるもの。ASCII範囲の文字を使用)
 bookname: book
